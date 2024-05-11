@@ -1,0 +1,33 @@
+img{
+    width: 200px;
+    border-radius: 20px;
+
+
+}
+
+body{
+    text-align: center;
+
+    background-image:linear-gradient(pink,rgb(87, 87, 251)) ;
+
+}
+
+button{
+    background-color: rgb(221, 0, 255);
+    width:300px;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    font-size: 14px;
+    
+
+}
+
+h3{
+    color: rgb(246, 34, 246);
+}
+h1{
+    color:teal;
+
+    
+}
